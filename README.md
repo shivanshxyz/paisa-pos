@@ -16,6 +16,11 @@ The most practical POS system for accepting crypto payments. no need to install 
 - The system is so effortless that everyone can use it
 
 
+
+https://github.com/shivanshxyz/paisa-pos/assets/24312840/e8fe4f36-8aa2-483b-be7a-5a10b9155398
+
+
+
 ## How it works
 The system is divided into two parts
 |                                               **Web based payment kiosk**                                               |                                               **Low cost payment alert soundbox**                                              |
